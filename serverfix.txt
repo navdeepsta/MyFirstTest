@@ -1,1 +1,1 @@
-fixed all errors
+fixed all errors but exceptions
